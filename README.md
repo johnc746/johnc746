@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm John Michael</h1>
 <h3 align="center">A Professional JavaScript Developer | Blockchain Engineer</h3>
 
 ### Languages  
