@@ -1,4 +1,5 @@
-<h3 align="center">A Professional JavaScript Developer | Blockchain Engineer</h3>
+<h3 align="center">A Senior FullStack JavaScript Engineer</h3>
+<h3 align="center">Blockchain Engineer</h3>
 
 ### Languages  
 
