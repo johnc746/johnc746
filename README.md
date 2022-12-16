@@ -1,4 +1,4 @@
-<h3 align="center">A Senior FullStack JavaScript Engineer</h3>
+<h1 align="center">A Senior FullStack JavaScript Engineer</h1>
 <h3 align="center">Blockchain Engineer</h3>
 
 ### Languages  
