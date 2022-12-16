@@ -1,6 +1,5 @@
-<h1 align="center">Senior FullStack JavaScript Engineer<br/>
-  <span align="center" style="font-size: 16px">with<br/>Blockchain Technology</span>
-</h1>
+<h1 align="center">Senior FullStack JavaScript Engineer</h1>
+<h3>with<br/>Blockchain Technology</h3>
 
 
 ### Languages  
