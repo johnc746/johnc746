@@ -54,8 +54,3 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<h2> &nbsp;Github Stats</h2>
-<span align="left">
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnMichael746&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
- 
