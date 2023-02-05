@@ -1,6 +1,6 @@
 <h1 align="center">Senior FullStack JavaScript Engineer</h1>
 <h3 align="center">with Blockchain Technology</h3>
-<h3 align="center"><a href="https://johnmichael746.github.io">See Portfolio.</a></h3>
+<h3 align="center">If you are interested, please<a href="https://johnmichael746.github.io">see portfolio.</a></h3>
 
 
 ### Languages  
