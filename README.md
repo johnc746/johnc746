@@ -1,6 +1,6 @@
 <h1 align="center">Senior FullStack JavaScript Engineer</h1>
 <h3 align="center">with Blockchain Technology</h3>
-<!--<h4 align="center">If you are interested, please <a href="https://johnmichael746.github.io" target="_blank">see portfolio.</a></h4>-->
+<!--<h4 align="center">If you are interested, please <a href="https://johnc746.github.io" target="_blank">see portfolio.</a></h4>-->
 
 
 ### Languages  
@@ -56,10 +56,8 @@
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnmichael746" alt="johnmichael746" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnc746" alt="johnc746" /></a> </p>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnmichael746&show_icons=true&locale=en&layout=compact" alt="johnmichael746" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnc746&show_icons=true&locale=en" alt="johnc746" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmichael746&show_icons=true&locale=en" alt="johnmichael746" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmichael746&" alt="johnmichael746" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnc746&" alt="johnc746" /></p>
